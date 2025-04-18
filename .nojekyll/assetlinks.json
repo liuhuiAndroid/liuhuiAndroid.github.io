@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.coil.test",
-    "sha256_cert_fingerprints":
-    ["A4:06:F5:55:EF:A8:2E:22:C2:78:1E:CC:E8:C6:BC:3F:84:65:34:45:5E:0B:BF:B2:5A:B1:74:D3:B5:2F:E1:66"]
-  }
-}]
