@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.unionpay",
+    "package_name": "com.coil.test",
     "sha256_cert_fingerprints":
-   ["5F:6B:3D:22:85:96:24:A8:DE:36:F9:5D:03:AE:2F:F7:58:1A:1D:AA:BB:23:0C:62:AE:D9:47:0A:54:41:48:45"]
+   ["8E:8A:60:EC:20:87:01:22:58:57:F5:16:96:4A:26:02:85:B8:A0:1B:DC:89:1D:46:14:8C:9F:0E:01:E3:23:94"]
   }
 }]
