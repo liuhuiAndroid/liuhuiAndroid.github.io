@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.unionpay",
+    "sha256_cert_fingerprints":
+   ["5F:6B:3D:22:85:96:24:A8:DE:36:F9:5D:03:AE:2F:F7:58:1A:1D:AA:BB:23:0C:62:AE:D9:47:0A:54:41:48:45"]
+  }
+}]
